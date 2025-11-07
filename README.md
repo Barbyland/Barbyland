@@ -1,18 +1,24 @@
 # ¡Hola! Soy Barby 👋
+[![GitHub](https://img.shields.io/badge/GitHub-Barbyland-black?logo=github)](https://github.com/Barbyland)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Barbara%20Bernhard-blue?logo=linkedin)](https://www.linkedin.com/in/barbara-bernhard/)
+ 
+💻 **Técnica Superior en Programación (Full Stack Jr.)**  
+🌍 **Licenciada en Turismo | Traductora multilingüe (Alemán, Portugués, Inglés, Español)**  
+🧩 **QA & Desarrollo** con experiencia en Python, SQL, HTML, CSS, JavaScript, Node.js y MySQL  
 
-👩‍💻 Actualmente en reconversión profesional al mundo IT.  
-🎓 Licenciada en Turismo | Traductora (Alemán, Portugués, Inglés, Español)  
-🧠 Estudiante de Programación en Teclab y del programa Tester QA (Talento Tech, GCBA)  
-💻 Conocimientos en: Python, SQL, HTML, CSS, Bootstrap, Git, lógica de programación y bases de datos (SQLite, Oracle).  
-🔍 Explorando intereses en desarrollo web, testing y análisis de datos.  
+---
+## 🚀 Sobre mí
+Apasionada por la tecnología, la comunicación y los idiomas, combino mi formación técnica con una mirada analítica, creativa y humana.  
+Actualmente sigo perfeccionándome en desarrollo web y QA, creando proyectos personales donde aplico lo aprendido en programación y testing.
+Mi objetivo es seguir creciendo en el mundo IT, creando soluciones funcionales y con impacto positivo.  
 
 ---
 
-## 🚀 Sobre mí
-Vengo del mundo del turismo y la traducción, donde desarrollé habilidades de comunicación, organización, resolución de problemas y trabajo en equipo.  
-Hoy estoy construyendo una nueva etapa combinando esa experiencia con tecnología.
-
-📚 Estoy aprendiendo de manera constante y trabajando en pequeños proyectos personales que compartiré acá.
+## 🧠 Tecnologías y herramientas
+- Frontend: HTML, CSS, JavaScript  
+- Backend: Node.js, Express, MySQL  
+- QA & Testing: Python, QA básico, control de versiones con Git y GitHub  
+- Herramientas: VS Code, Postman, Trello
 
 ---
 
