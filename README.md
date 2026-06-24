@@ -6,10 +6,10 @@
 
 💻 **Técnica Superior en Programación | Full Stack Jr.**  
 🌎 **Licenciada en Turismo | Traductora EN-DE-PT-ES**  
-🧪 **QA en formación | Automatización con Selenium**  
+🧪 **QA Functional Analyst | Automation QA Trainee**  
 🎨 **Web Designer Freelance en Barby Digital**  
 
-Desarrollo proyectos con **Python, SQL, HTML, CSS, JavaScript, Node.js y MySQL**.
+Desarrollo proyectos y prácticas con **Python, SQL, HTML, CSS, JavaScript, Node.js, MySQL, Selenium, Pytest y API Testing**.
 
 ---
 
@@ -17,11 +17,52 @@ Desarrollo proyectos con **Python, SQL, HTML, CSS, JavaScript, Node.js y MySQL**
 
 Apasionada por la tecnología, la comunicación, los idiomas y el diseño digital. Combino mi experiencia profesional en turismo y traducción con mi formación técnica en programación, QA y desarrollo web.
 
-Actualmente estoy creando proyectos personales y freelance a través de **Barby Digital**, mi emprendimiento orientado al diseño web, presencia digital y soluciones simples para emprendedores.
+Cuento con más de 15 años de experiencia en el sector turístico, trabajando con sistemas de reservas, disponibilidad, tarifas, modificaciones, cancelaciones y plataformas operativas. Esa experiencia me permite aportar una mirada funcional sólida al testing de productos digitales, especialmente dentro del mundo Travel Tech.
 
-También me estoy formando en automatización de QA con **Selenium**, fortaleciendo mi perfil técnico orientado al testing y la calidad de software.
+Actualmente estoy fortaleciendo mi perfil en Automation Testing con Python, Selenium WebDriver, Pytest, API Testing y Page Object Model. Ya entregué mi proyecto final integrador de Talento Tech, orientado al desarrollo de un framework de automatización de pruebas UI + API.
 
-Mi objetivo es seguir creciendo en el mundo IT, creando soluciones funcionales, claras y con impacto positivo.
+También estoy creando proyectos personales y freelance a través de Barby Digital, mi emprendimiento orientado al diseño web, presencia digital y soluciones simples para emprendedores.
+
+Mi objetivo es seguir creciendo en el mundo IT, creando soluciones funcionales, claras y con impacto positivo, especialmente en roles vinculados a QA, testing, automatización y Travel Tech.
+
+---
+🧪 QA & Testing
+
+Estoy enfocada en el aseguramiento de calidad de productos digitales, especialmente en flujos funcionales vinculados a plataformas de reservas, operaciones y sistemas transaccionales.
+
+Trabajo y estudio herramientas relacionadas con:
+
+Diseño y ejecución de casos de prueba
+Análisis de requerimientos
+Matriz de pruebas
+Reporte y seguimiento de defectos
+Validación de flujos de negocio
+Testing funcional y no funcional
+Testing de APIs
+Automatización con Selenium WebDriver
+Ejecución de pruebas con Pytest
+Page Object Model
+Requests para pruebas de API
+Reportes de ejecución
+GitHub Actions para CI/CD
+
+---
+🌎 Travel Tech
+
+Además de mi formación técnica, cuento con amplia experiencia profesional en turismo, especialmente en sistemas de reservas y operaciones internacionales.
+
+Trabajé con plataformas y procesos vinculados a:
+
+Reservas internacionales
+Trenes europeos, Japón y Canadá
+Validación de disponibilidad
+Tarifas dinámicas
+Reglas de emisión
+Modificaciones y cancelaciones
+Incidencias operativas
+Sistemas como Renfe, DB, Trenitalia y RailClick
+
+Esta experiencia me permite aportar una mirada funcional sólida al testing de productos digitales del sector turístico.
 
 ---
 
@@ -29,12 +70,13 @@ Mi objetivo es seguir creciendo en el mundo IT, creando soluciones funcionales, 
 
 Actualmente estoy desarrollando **Barby Digital**, mi emprendimiento freelance orientado al diseño web, presencia digital y soluciones simples para emprendedores.
 
-Estoy trabajando en:
+Trabajo en:
 
 - Diseño y desarrollo de landing pages
+- Estructura visual de sitios web
+- Responsive design
 - Optimización de perfiles de Instagram
 - Creación de contenido visual para marcas personales y pequeños negocios
-- Automatización y testing como parte de mi formación en QA
 
 Mientras desarrollo mi propia web, podés encontrar el proyecto en Instagram:
 
@@ -63,10 +105,12 @@ Mientras desarrollo mi propia web, podés encontrar el proyecto en Instagram:
 
 ## 📌 Actualmente estoy enfocada en
 
-- Mejorar mis proyectos de desarrollo web
-- Practicar QA manual y automatización con Selenium
-- Crear soluciones digitales para emprendedores
-- Fortalecer mi portfolio técnico y freelance
+- Fortalecer mi perfil como QA Functional Analyst
+- Practicar testing manual y automatización
+- Desarrollar proyectos con Selenium, Pytest y API Testing
+- Mejorar mi portfolio técnico en GitHub
+- Aplicar mi experiencia en turismo al mundo Travel Tech
+- Crear soluciones digitales simples para emprendedores a través de Barby Digital
 
 ---
 
