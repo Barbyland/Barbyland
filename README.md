@@ -88,7 +88,7 @@ Mientras desarrollo mi propia web, podés encontrar el proyecto en Instagram:
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express, MySQL
-- **QA & Testing:** testing manual, Selenium, Python, Postman
+- **QA & Testing:** testing manual, Selenium WebDriver, Pytest, Python, Postman, API Testing, Page Object Model, GitHub Actions.
 - **Herramientas:** Git, GitHub, VS Code, Trello, Canva
 - **Diseño web:** landing pages, estructura visual, responsive design
 
