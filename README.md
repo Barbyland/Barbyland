@@ -26,7 +26,7 @@ También estoy creando proyectos personales y freelance a través de Barby Digit
 Mi objetivo es seguir creciendo en el mundo IT, creando soluciones funcionales, claras y con impacto positivo, especialmente en roles vinculados a QA, testing, automatización y Travel Tech.
 
 ---
-🧪 QA & Testing
+## 🧪 QA & Testing
 
 Estoy enfocada en el aseguramiento de calidad de productos digitales, especialmente en flujos funcionales vinculados a plataformas de reservas, operaciones y sistemas transaccionales.
 
@@ -47,7 +47,7 @@ Reportes de ejecución
 GitHub Actions para CI/CD
 
 ---
-🌎 Travel Tech
+## 🌎 Travel Tech
 
 Además de mi formación técnica, cuento con amplia experiencia profesional en turismo, especialmente en sistemas de reservas y operaciones internacionales.
 
