@@ -32,19 +32,19 @@ Estoy enfocada en el aseguramiento de calidad de productos digitales, especialme
 
 Trabajo y estudio herramientas relacionadas con:
 
-Diseño y ejecución de casos de prueba
-Análisis de requerimientos
-Matriz de pruebas
-Reporte y seguimiento de defectos
-Validación de flujos de negocio
-Testing funcional y no funcional
-Testing de APIs
-Automatización con Selenium WebDriver
-Ejecución de pruebas con Pytest
-Page Object Model
-Requests para pruebas de API
-Reportes de ejecución
-GitHub Actions para CI/CD
+- Diseño y ejecución de casos de prueba
+- Análisis de requerimientos
+- Matriz de pruebas
+- Reporte y seguimiento de defectos
+- Validación de flujos de negocio
+- Testing funcional y no funcional
+- Testing de APIs
+- Automatización con Selenium WebDriver
+- Ejecución de pruebas con Pytest
+- Page Object Model
+- Requests para pruebas de API
+- Reportes de ejecución
+- GitHub Actions para CI/CD
 
 ---
 ## 🌎 Travel Tech
@@ -53,14 +53,14 @@ Además de mi formación técnica, cuento con amplia experiencia profesional en 
 
 Trabajé con plataformas y procesos vinculados a:
 
-Reservas internacionales
-Trenes europeos, Japón y Canadá
-Validación de disponibilidad
-Tarifas dinámicas
-Reglas de emisión
-Modificaciones y cancelaciones
-Incidencias operativas
-Sistemas como Renfe, DB, Trenitalia y RailClick
+- Reservas internacionales
+- Trenes europeos, Japón y Canadá
+- Validación de disponibilidad
+- Tarifas dinámicas
+- Reglas de emisión
+- Modificaciones y cancelaciones
+- Incidencias operativas
+- Sistemas como Renfe, DB, Trenitalia y RailClick
 
 Esta experiencia me permite aportar una mirada funcional sólida al testing de productos digitales del sector turístico.
 
