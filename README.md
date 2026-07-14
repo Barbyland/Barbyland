@@ -83,6 +83,35 @@ Mientras desarrollo mi propia web, podés encontrar el proyecto en Instagram:
 👉 [@barbydigital.dev](https://www.instagram.com/barbydigital.dev)
 
 ---
+## QA – Proyecto FARO
+
+Participación en el equipo de QA del proyecto FARO, desarrollado en el marco de Innova Lab.
+
+### Tareas realizadas
+
+- Análisis y revisión de requerimientos.
+- Revisión visual y estructural del prototipo en Figma.
+- Diseño y documentación de casos de prueba.
+- Validación de endpoints mediante Postman.
+- Registro y seguimiento de incidencias en GitHub Projects.
+- Pruebas funcionales y de accesibilidad.
+- Coordinación con los equipos de UX/UI, Frontend, Backend y Data.
+
+### Herramientas
+
+- Postman
+- GitHub Projects
+- Figma
+- Moodle
+- Documentación compartida
+
+## Sobre Innova Lab
+
+Proyecto desarrollado dentro de Innova Lab, laboratorio de proyectos tecnológicos de la Agencia de Habilidades para el Futuro del GCBA.
+
+Página institucional:
+https://buenosaires.gob.ar/gcaba_historico/innova-lab
+---
 
 ## 🧠 Tecnologías y herramientas
 
