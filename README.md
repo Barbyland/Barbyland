@@ -6,7 +6,7 @@
 
 💻 **Técnica Superior en Programación | Full Stack Jr.**  
 🌎 **Licenciada en Turismo | Traductora EN-DE-PT-ES**  
-🧪 **QA Functional Analyst | Automation QA Trainee**  
+🧪 **QA Functional Analyst | Automation QA **  
 🎨 **Web Designer Freelance en Barby Digital**  
 
 Desarrollo proyectos y prácticas con **Python, SQL, HTML, CSS, JavaScript, Node.js, MySQL, Selenium, Pytest y API Testing**.
