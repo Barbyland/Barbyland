@@ -83,31 +83,56 @@ Mientras desarrollo mi propia web, podés encontrar el proyecto en Instagram:
 👉 [@barbydigital.dev](https://www.instagram.com/barbydigital.dev)
 
 ---
-## QA – Proyecto FARO
+## FARO – QA, Front-End y desarrollo de landing interactiva
 
-Participación en el equipo de QA del proyecto FARO, desarrollado en el marco de Innova Lab.
+FARO es una herramienta de accesibilidad para Moodle desarrollada por el
+Equipo 13 de Innova Lab. Incluye perfiles predefinidos, lectura asistida,
+personalización visual y opciones de navegación accesible.
 
-### Tareas realizadas
+### Mi contribución
 
-- Análisis y revisión de requerimientos.
-- Revisión visual y estructural del prototipo en Figma.
-- Diseño y documentación de casos de prueba.
+#### QA y accesibilidad
+- Análisis y revisión de requerimientos funcionales.
+- Revisión visual y estructural de prototipos en Figma.
+- Diseño, documentación y ejecución de casos de prueba.
+- Registro de evidencias, retesting y seguimiento de incidencias.
 - Validación de endpoints mediante Postman.
-- Registro y seguimiento de incidencias en GitHub Projects.
-- Pruebas funcionales y de accesibilidad.
-- Coordinación con los equipos de UX/UI, Frontend, Backend y Data.
+- Pruebas funcionales, responsive y de accesibilidad.
+- Validación de navegación por teclado, foco y estados ARIA.
+- Pruebas de lectura asistida, volumen, velocidad y restablecimiento de preferencias.
 
-### Herramientas
+#### Landing y demo interactiva
+- Diseñé y desarrollé la landing responsive de FARO con HTML, CSS y JavaScript.
+- Integré una demostración funcional del widget dentro de la landing.
+- Implementé mejoras de navegación por teclado, contraste, tipografía y estados accesibles.
+- Realicé pruebas funcionales y responsive antes de la publicación.
+- Gestioné el despliegue y las versiones de la landing mediante GitHub y Netlify.
 
+#### Trabajo colaborativo
+- Trabajé con los equipos de UX/UI, Front-End, Back-End y Data.
+- Utilicé ramas, commits, pull requests y Deploy Previews.
+- Participé en el seguimiento de tareas, bloqueos y dependencias en GitHub Projects.
+- Colaboré en la preparación de la presentación, el material audiovisual y el Demo Day.
+
+### Tecnologías y herramientas
+
+- HTML, CSS y JavaScript
 - Postman
+- Git y GitHub
 - GitHub Projects
+- Netlify
 - Figma
 - Moodle
-- Documentación compartida
 
-## Sobre Innova Lab
+### Demo
 
-Proyecto desarrollado dentro de Innova Lab, laboratorio de proyectos tecnológicos de la Agencia de Habilidades para el Futuro del GCBA.
+🔗 [Landing y demo interactiva de FARO](https://home-faroinnovalab.netlify.app/)
+
+### Sobre Innova Lab
+
+Proyecto desarrollado en Innova Lab, laboratorio de proyectos tecnológicos
+de la Agencia de Habilidades para el Futuro del Gobierno de la Ciudad de
+Buenos Aires.
 
 Página institucional:
 https://buenosaires.gob.ar/gcaba_historico/innova-lab
