@@ -106,7 +106,7 @@ Incluye:
 - Integración continua con GitHub Actions.
 - Escenarios automatizados de login, catálogo, carrito, checkout y API REST.
 
-🔗 [Ver repositorio de Automation Testing] (https://github.com/Barbyland/proyecto-final-automation-testing-barbara-bernhard)
+🔗 [Ver repositorio de Automation Testing](https://github.com/Barbyland/proyecto-final-automation-testing-barbara-bernhard)
 
 ---
 ## 💻 Barby Digital
