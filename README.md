@@ -27,15 +27,6 @@ Además, desarrollo proyectos personales y freelance a través de Barby Digital,
 
 Mi objetivo es continuar creciendo en roles vinculados a QA funcional, Automation Testing, implementación de software, soporte funcional y TravelTech, donde pueda integrar tecnología, conocimiento de negocio, idiomas, comunicación y pensamiento analítico.
 
-## 📌 Actualmente estoy enfocada en
-
-- Consolidar mi perfil como Functional QA Analyst.
-- Profundizar en automatización de pruebas UI y API.
-- Fortalecer mis conocimientos de Python, Selenium, Pytest y Postman.
-- Mejorar mi portfolio técnico y la documentación de mis proyectos en GitHub.
-- Aplicar mi experiencia en turismo a soluciones TravelTech.
-- Desarrollar proyectos web y digitales a través de Barby Digital.
-
 ---
 ## 🚀 Proyectos destacados
 ### FARO – Accesibilidad, QA y landing interactiva
@@ -87,7 +78,7 @@ personalización visual y opciones de navegación accesible.
 
 Proyecto desarrollado en Innova Lab, laboratorio de proyectos tecnológicos
 de la Agencia de Habilidades para el Futuro del Gobierno de la Ciudad de
-Buenos Aires. Página institucional: https://buenosaires.gob.ar/gcaba_historico/innova-lab
+Buenos Aires. 🔗 [Página institucional de Innova Lab](https://buenosaires.gob.ar/gcaba_historico/innova-lab)
 
 ---
 ### Framework de Automation Testing – UI y API
@@ -105,6 +96,7 @@ Incluye:
 - Reportes HTML.
 - Integración continua con GitHub Actions.
 - Escenarios automatizados de login, catálogo, carrito, checkout y API REST.
+- Última ejecución local documentada: 11 pruebas aprobadas.
 
 🔗 [Ver repositorio de Automation Testing](https://github.com/Barbyland/proyecto-final-automation-testing-barbara-bernhard)
 
@@ -178,10 +170,9 @@ Page Object Model y GitHub Actions.
 
 **Front-End:** HTML, CSS y JavaScript.
 
-**Datos y backend:** SQL, MySQL, Node.js y Express.
+**Conocimientos en Datos y backend:** SQL, MySQL, Node.js y Express.
 
-**Herramientas:** Git, GitHub, GitHub Projects, VS Code, Figma, Trello,
-Netlify y Canva.
+**Herramientas:** Git, GitHub, GitHub Projects, Jira, Zephyr, VS Code, Figma, Netlify, Trello y Canva.
 
 ---
 
@@ -194,6 +185,16 @@ Netlify y Canva.
 
 ---
 
+## 📌 Actualmente estoy enfocada en
+
+- Consolidar mi perfil como Functional QA Analyst.
+- Profundizar en automatización de pruebas UI y API.
+- Fortalecer mis conocimientos de Python, Selenium, Pytest y Postman.
+- Mejorar mi portfolio técnico y la documentación de mis proyectos en GitHub.
+- Aplicar mi experiencia en turismo a soluciones TravelTech.
+- Desarrollar proyectos web y digitales a través de Barby Digital.
+
+---
 ## 📬 Contacto
 
 Podés encontrarme en [LinkedIn](https://www.linkedin.com/in/barbara-bernhard/) o conocer mis proyectos
