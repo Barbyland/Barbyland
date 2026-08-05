@@ -180,8 +180,8 @@ Page Object Model y GitHub Actions.
 
 - Español: nativo.
 - Alemán: avanzado.
-- Portugués: avanzado.
-- Inglés: intermedio-alto.
+- Portugués: intermedio.
+- Inglés: intermedio.
 
 ---
 
