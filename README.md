@@ -1,8 +1,10 @@
 # ¡Hola! Soy Barby 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-Barbyland-181717?style=flat&logo=github)](https://github.com/Barbyland)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Barbara%20Bernhard-7C3AED?style=flat&logo=netlify&logoColor=white)](https://barbara-bernhard.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bárbara%20Bernhard-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-bernhard/)
+[![GitHub](https://img.shields.io/badge/GitHub-Barbyland-181717?style=flat&logo=github)](https://github.com/Barbyland)
 [![Instagram](https://img.shields.io/badge/Instagram-barbydigital.dev-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/barbydigital.dev)
+
 
 🧪 **Functional QA Analyst | Automation Testing**  
 🌎 **TravelTech | Licenciada en Turismo**  
@@ -21,7 +23,7 @@ Mi experiencia con sistemas de reservas, disponibilidad, tarifas, condiciones co
 
 Me formé en Automation Testing con Python, Selenium WebDriver, Pytest, Requests, API Testing y Page Object Model. Como proyecto final de Talento Tech desarrollé un framework de automatización de pruebas UI y API con estructura modular, datos externos, reportes HTML, logging, capturas automáticas ante fallos e integración continua mediante GitHub Actions.
 
-También participé en FARO, una herramienta de accesibilidad para Moodle, donde trabajé en QA funcional y accesibilidad, validación de endpoints, seguimiento de incidencias y desarrollo de la landing responsive con una demo interactiva.
+También participé en FARO, un MVP de accesibilidad diseñado para integrarse con Moodle, donde trabajé en QA funcional y accesibilidad, validación de endpoints, seguimiento de incidencias y desarrollo de la landing responsive con una demo interactiva.
 
 Además, desarrollo proyectos personales y freelance a través de Barby Digital, mi emprendimiento orientado al diseño web, presencia digital y soluciones para emprendimientos, profesionales y pequeñas marcas.
 
