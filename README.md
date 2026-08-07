@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-barbydigital.dev-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/barbydigital.dev)
 
 
-🧪 **Functional QA Analyst | Automation Testing**  
+🧪 **Functional QA Analyst | Test Automation**  
 🌎 **TravelTech | Licenciada en Turismo**  
 💻 **Técnica Superior en Programación**  
 🎨 **Desarrollo web freelance en Barby Digital**
