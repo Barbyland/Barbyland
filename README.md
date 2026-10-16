@@ -15,19 +15,17 @@
 
 ## 🚀 Sobre mí
 
-Soy Licenciada en Turismo y Técnica Superior en Programación, con más de 15 años de experiencia profesional en operaciones turísticas, sistemas de reservas, atención a agencias y coordinación con proveedores internacionales.
+## 🚀 Sobre mí
 
-Actualmente oriento mi desarrollo profesional hacia QA funcional, automatización de pruebas y TravelTech, combinando mi conocimiento del negocio turístico con formación técnica en programación, testing y desarrollo web.
+Soy Licenciada en Turismo y Técnica Superior en Programación, con más de 15 años de experiencia en operaciones turísticas B2B, sistemas de reservas, plataformas digitales y coordinación con proveedores internacionales.
 
-Mi experiencia con sistemas de reservas, disponibilidad, tarifas, condiciones comerciales, modificaciones, cancelaciones e incidencias operativas me permite comprender la lógica de negocio y aportar una mirada funcional sólida al análisis y testing de productos digitales.
+Combino mi conocimiento del negocio turístico con formación y experiencia práctica en QA funcional, automatización de pruebas y desarrollo web.
 
-Me formé en Automation Testing con Python, Selenium WebDriver, Pytest, Requests, API Testing y Page Object Model. Como proyecto final de Talento Tech desarrollé un framework de automatización de pruebas UI y API con estructura modular, datos externos, reportes HTML, logging, capturas automáticas ante fallos e integración continua mediante GitHub Actions.
+Desarrollé un framework de automatización UI y API con Python, Selenium, Pytest y GitHub Actions. También participé en FARO, un proyecto colaborativo de accesibilidad para Moodle, realizando pruebas funcionales, validación de APIs y tareas de desarrollo frontend.
 
-También participé en FARO, un MVP de accesibilidad diseñado para integrarse con Moodle, donde trabajé en QA funcional y accesibilidad, validación de endpoints, seguimiento de incidencias y desarrollo de la landing responsive con una demo interactiva.
+Actualmente desarrollo Vialid, un proyecto TravelTech orientado a detectar inconsistencias en documentación turística antes de su entrega al pasajero. Su primera etapa consiste en un prototipo navegable con datos ficticios.
 
-Además, desarrollo proyectos personales y freelance a través de Barby Digital, mi emprendimiento orientado al diseño web, presencia digital y soluciones para emprendimientos, profesionales y pequeñas marcas.
-
-Mi objetivo es continuar creciendo en roles vinculados a QA funcional, Automation Testing, implementación de software, soporte funcional y TravelTech, donde pueda integrar tecnología, conocimiento de negocio, idiomas, comunicación y pensamiento analítico.
+Me interesan oportunidades en QA, Test Automation, análisis funcional, implementación de software y TravelTech, donde pueda aportar tanto mis competencias técnicas como mi experiencia de negocio.
 
 ---
 ## 🚀 Proyectos destacados
@@ -115,7 +113,7 @@ para emprendimientos, profesionales y pequeñas marcas.
 - Publicación mediante GitHub y Netlify.
 - Diseño de contenido visual y presencia digital.
 
-🔗 [Ver portfolio de Barby Digital](https://barby-digital-web.netlify.app/)
+🔗 [Ver portfolio de Barby Digital](https://barbydigital.com.ar/)
 👉 [@barbydigital.dev](https://www.instagram.com/barbydigital.dev)
 
 ---
