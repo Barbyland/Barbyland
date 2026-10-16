@@ -15,8 +15,6 @@
 
 ## 🚀 Sobre mí
 
-## 🚀 Sobre mí
-
 Soy Licenciada en Turismo y Técnica Superior en Programación, con más de 15 años de experiencia en operaciones turísticas B2B, sistemas de reservas, plataformas digitales y coordinación con proveedores internacionales.
 
 Combino mi conocimiento del negocio turístico con formación y experiencia práctica en QA funcional, automatización de pruebas y desarrollo web.
